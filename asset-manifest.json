@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ENS-CrpytoWeb/static/css/main.6419a37b.css",
+    "main.js": "/ENS-CrpytoWeb/static/js/main.94c24ce2.js",
+    "static/media/trade.png": "/ENS-CrpytoWeb/static/media/trade.a2c09083fbde76e9cac2.png",
+    "static/media/hero-img.png": "/ENS-CrpytoWeb/static/media/hero-img.66b9eb77caa3ac6d4fe8.png",
+    "index.html": "/ENS-CrpytoWeb/index.html",
+    "main.6419a37b.css.map": "/ENS-CrpytoWeb/static/css/main.6419a37b.css.map",
+    "main.94c24ce2.js.map": "/ENS-CrpytoWeb/static/js/main.94c24ce2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6419a37b.css",
+    "static/js/main.94c24ce2.js"
+  ]
+}
