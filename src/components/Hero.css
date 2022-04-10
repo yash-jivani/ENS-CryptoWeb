@@ -1,0 +1,43 @@
+.hero .container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: center;
+  margin: 4rem auto;
+  padding: 1rem;
+  align-items: center;
+}
+
+.hero .left {
+  padding: 1rem;
+}
+
+.hero .right {
+  padding: 1rem;
+}
+
+.hero h1 {
+  padding: 1rem 0;
+}
+
+.hero .input_section {
+  padding: 1rem 0;
+}
+
+.hero .img-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero img {
+  width: 80%;
+  margin: 1px auto;
+}
+
+@media screen and (max-width: 940px) {
+  .hero .container {
+    grid-template-columns: 1fr;
+    margin: 1rem auto;
+  }
+}
