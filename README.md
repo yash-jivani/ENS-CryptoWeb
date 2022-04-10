@@ -2,7 +2,6 @@
 
 - Real-time  trading status for the top cryptocurrency.
 
-- *[Tap Here to Visit](https://yash-jivani.github.io/ENS-CryptoWeb.github.io/).*
 
 
 ## Contributing
